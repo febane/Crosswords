@@ -1,2 +1,2 @@
 # Crosswords_Haskell
-Crosswords in a haskell script. Letters have different costs.
+Crosswords whose letters have different costs in a haskell script
